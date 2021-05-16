@@ -10,7 +10,7 @@ The program works with Python 3.8. In order to run the GPA-calculator the librar
 3.	If entered “yes”, insert “yes” or “no”. It does not matter if the input is written in uppercase or in lowercase letters.
 4.	If entered “yes”, insert in which semester you are in, followed be the input of how many marks you want to insert. Both inputs must be an integer. 
 5.	If entered “no”, insert how many marks you want to insert. The input must be an integer. 
-6.	If entered “yes” at step three The program asks you to insert in a row the name of the subject, the value of the subject and the mark.
+6.	If entered “yes” at step three the program asks you to insert in a row the name of the subject, the value of the subject and the mark.
 a.	It is important that after each input (after the name, after the value and after the mark) to press enter. 
 b.	After entered the first subject, you can start inserting straightaway the next subject. 
 c.	The value and the mark must be an integer.
